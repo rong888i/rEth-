@@ -1,11 +1,12 @@
-# IERC 多核挖矿程序
+# rETH 多核挖矿程序
 
-
+原作者的推特
 [联系作者](https://twitter.com/chenmin22998595)
 
+我的推特，只是稍微改了一下，不会golang
+[联系作者](https://twitter.com/123xzr)
 
-生成10笔ierc-m5交易耗时2分钟 (8核cpu)
-
+算力我的i7-13700k大概3500000hash/s
 ![](./img.png)
 
 测试地址
@@ -15,7 +16,7 @@ https://holesky.etherscan.io/address/0xd19162560690227c8f71a21b76129e1eb05575a9
 
 ### 使用方式
 
-1. 在[这里](https://github.com/minchenzz/ierc-miner/releases)下载对应操作系统的版本,解压缩程序
+1. 克隆库
 
 2. 修改目录下的config.txt文件,改成你自己的配置
 
