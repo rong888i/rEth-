@@ -1,0 +1,24 @@
+# 你的私钥 带0x前缀
+# 你要改这个
+private_key = ""
+# rpc  主网: https://1rpc.io/eth  holesky测试网: https://1rpc.io/holesky
+# 你可以不改这个
+rpc = "https://rpc.ankr.com/eth/"
+# token
+# 你要改这个
+tick = "rETH"
+# 数量
+# 你要改这个
+amt = 10000
+# 难度
+# 你要改这个
+prefix = "77777"
+# mint数量
+# 你要改这个
+count = 3
+# gas优先费用
+# 你可以不改这个
+gas_tip = 1
+# 最大gas费用
+# 你可以不改这个 这个值必须要比ethgas高
+gas_max = 50
