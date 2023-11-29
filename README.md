@@ -20,7 +20,7 @@ https://holesky.etherscan.io/address/0xd19162560690227c8f71a21b76129e1eb05575a9
 
 2. 修改目录下的config.txt文件,改成你自己的配置
 
-3. 双击ierc_miner_windows.exe运行
+3. 愉快的学习运行方法吧
 
 ```toml
 # 你的私钥 带0x前缀
